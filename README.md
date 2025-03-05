@@ -105,8 +105,8 @@ Encontre a variável Path, clique em Editar e adicione o caminho da pasta bin na
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone -b Master --single-branch https://github.com/HugoMajela/Mundo-do-Hugo.git
-cd Mundo-do-Hugo/
+git clone https://github.com/HugoMajela/Projeto-Manhuacu-SmartCity.git
+cd Projeto-Manhuacu-SmartCity/
 npm install
 ```
 
